@@ -24,8 +24,8 @@ Esta es una aplicación sencilla y divertida para buscar películas, hecha con *
 ## 📁 Cómo usarlo
 
 1. Clona el repositorio:
-   ```bash
-   git clone 
+   bash
+   git clone 'https://github.com/SebbastianMartins/Buscador_de_Peliculas'
 
 
  2. Abre el archivo index.html en tu navegador
