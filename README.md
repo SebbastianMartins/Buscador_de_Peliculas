@@ -11,6 +11,12 @@ This is a simple and fun movie search application built with **HTML**, **CSS**, 
 - Fallback placeholder for missing data
 - Clean and responsive UI
 
+  ## 🔗 Live Demo
+
+Check out the live version here:  
+👉 [https://sebbastianmartins.github.io/Buscador_de_Peliculas/](https://sebbastianmartins.github.io/Buscador_de_Peliculas/)
+
+
 ## 🛠️ Tech Stack
 
 - HTML5
