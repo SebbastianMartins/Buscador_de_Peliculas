@@ -15,6 +15,13 @@ Esta es una aplicación sencilla y divertida para buscar películas, hecha con *
 - Imagen por defecto si falta la original
 - Interfaz limpia y adaptable a móviles
 
+
+## 🔗 Demo en Vivo
+
+Mira la versión en línea aquí:  
+👉 [https://sebbastianmartins.github.io/Buscador_de_Peliculas/](https://sebbastianmartins.github.io/Buscador_de_Peliculas/)
+
+
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
