@@ -20,7 +20,7 @@ This is a simple and fun movie search application built with **HTML**, **CSS**, 
 ## 📁 How to Use
 
 1. Clone the repo
-   ```bash
+   'bash https://github.com/SebbastianMartins/Buscador_de_Peliculas'
    git clone 
 
 
